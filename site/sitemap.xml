@@ -1,3 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://omagonheiro.github.io/site/</loc>
+         <lastmod>2023-06-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://omagonheiro.github.io/site/excessos-e-deficiencias/</loc>
+         <lastmod>2023-06-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://omagonheiro.github.io/site/primeiro-ano-como-grower/</loc>
+         <lastmod>2023-06-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://omagonheiro.github.io/site/fa%C3%A7a-voc%C3%AA-mesmo/rega-auto/</loc>
+         <lastmod>2023-06-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://omagonheiro.github.io/site/meu-manejo/</loc>
+         <lastmod>2023-06-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
 </urlset>
