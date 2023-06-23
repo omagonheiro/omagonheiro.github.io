@@ -5,6 +5,7 @@ theme:
   name: material
   language: pt-BR
   favicon: images/favicon.png
+  logo: images/favicon.png
   palette:
     scheme: slate
     primary: green
