@@ -1,7 +1,6 @@
 site_name: Magonheiro
 site_description: Um magonheiro vivendo o sonho de ser um grower.
 site_author: Magonheiro
-site_url: https://omagonheiro.github.io/site/
 theme:
   name: material
   language: pt-BR
