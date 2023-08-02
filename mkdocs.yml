@@ -20,3 +20,8 @@ extra:
 plugins:
   - search:
       lang: pt
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences      
