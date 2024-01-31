@@ -1,0 +1,27 @@
+site_name: Magonheiro
+site_description: Um magonheiro vivendo o sonho de ser um grower.
+site_author: Magonheiro
+theme:
+  name: material
+  language: pt-BR
+  favicon: images/favicon.png
+  logo: images/favicon.png
+  palette:
+    scheme: slate
+    primary: green
+    accent: indigo
+  features:
+    - navigation.footer
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/instagram
+      link: https://instagram.com/magonheiro
+plugins:
+  - search:
+      lang: pt
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences      
